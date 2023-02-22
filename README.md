@@ -72,45 +72,15 @@ Text editor, run commands and browser
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+
 
 ```sh
   cd my-folder
   git clone https://github.com/AFakhriddinov/Hello-World-Microverse-Week1
 ```
---->
-
-### Install
-
-Install this project with:
 
 
 
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
