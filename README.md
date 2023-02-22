@@ -2,12 +2,6 @@
 
 <a name="readme-top"></a>
 
-
-
-
-
-
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -34,7 +28,7 @@
 
 # 📖 [Hello World Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences. This is my first project in Microverse
+>This project is about setting up all required tools and standards (e.g. Linters) in a simple "Hello Microverse" project.
 
 **[Hello World Project]** 
 
@@ -46,8 +40,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Header with a green color]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -57,8 +49,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -72,23 +62,16 @@ Text editor, run commands and browser
 
 Clone this repository to your desired folder:
 
-
-
 ```sh
   cd my-folder
   git clone https://github.com/AFakhriddinov/Hello-World-Microverse-Week1
 ```
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Abdul-Aziz Fakhriddinov**
 
@@ -99,15 +82,11 @@ Clone this repository to your desired folder:
 👤
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,11 +100,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project, let me know and we can improve it further
 
@@ -135,9 +110,7 @@ If you like this project, let me know and we can improve it further
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank Microverse team and reviewers who helped me to make this project look more professional
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,15 +118,9 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
 - **[How can this project be imporoved]**
 
   - [more pages could be added to this website]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
