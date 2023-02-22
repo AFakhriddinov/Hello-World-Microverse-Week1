@@ -24,7 +24,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 [Hello World Project] <a name="about-project"></a>
 
@@ -36,7 +36,6 @@
 
 
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -46,7 +45,6 @@
 
 
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -62,14 +60,13 @@ Text editor, run commands and browser
 
 Clone this repository to your desired folder:
 
-```sh
+
   cd my-folder
   git clone https://github.com/AFakhriddinov/Hello-World-Microverse-Week1
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -90,7 +87,7 @@ N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -106,30 +103,20 @@ If you like this project, let me know and we can improve it further
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse team and reviewers who helped me to make this project look more professional
+I would like to thank Microverse team and reviewers who helped me make this project look more professional
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 - **[How can this project be imporoved]**
 
-  - [more pages could be added to this website]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+  - [more content could be added to this website]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
